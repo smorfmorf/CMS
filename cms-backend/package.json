@@ -1,0 +1,16 @@
+{
+  "name": "cms-backend",
+  "version": "3.1.1",
+  "description": "Перед запуском убедитесь, что вы установили Node.js версии 16 или выше.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.0"
+  }
+}
